@@ -1,0 +1,3 @@
+#Important_Note
+
+In directory "phase diagram", you could find the code and data files to plot the figures in Fig.4. Please be minded that we adopted the opposite conventions to define the rotation directions in Figs.2-3 and the modified Cahn-Taylor model (fig.4). Therefore, we provide two columns of rotation rates obtained by our continuum model in each data file corresponding to the ordinary convention used in Figs.2-3 and the opposite convention (to be consistent with the convention in modified Cahn-Taylor model). We plot Fig.4b, c with the opposite convention in order to directly compare with the mCT model.
